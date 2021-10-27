@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\EfCoreExistingDB\EfCoreExistingDB\bin\Debug\netcoreapp3.1\EfCoreExistingDB.deps.json
+C:\Users\user\source\repos\EfCoreExistingDB\EfCoreExistingDB\bin\Debug\netcoreapp3.1\EfCoreExistingDB.runtimeconfig.json
+C:\Users\user\source\repos\EfCoreExistingDB\EfCoreExistingDB\bin\Debug\netcoreapp3.1\EfCoreExistingDB.runtimeconfig.dev.json
+C:\Users\user\source\repos\EfCoreExistingDB\EfCoreExistingDB\bin\Debug\netcoreapp3.1\EfCoreExistingDB.dll
+C:\Users\user\source\repos\EfCoreExistingDB\EfCoreExistingDB\bin\Debug\netcoreapp3.1\EfCoreExistingDB.pdb
+C:\Users\user\source\repos\EfCoreExistingDB\EfCoreExistingDB\obj\Debug\netcoreapp3.1\EfCoreExistingDB.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EfCoreExistingDB\EfCoreExistingDB\obj\Debug\netcoreapp3.1\EfCoreExistingDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EfCoreExistingDB\EfCoreExistingDB\obj\Debug\netcoreapp3.1\EfCoreExistingDB.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EfCoreExistingDB\EfCoreExistingDB\obj\Debug\netcoreapp3.1\EfCoreExistingDB.AssemblyInfo.cs
+C:\Users\user\source\repos\EfCoreExistingDB\EfCoreExistingDB\obj\Debug\netcoreapp3.1\EfCoreExistingDB.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EfCoreExistingDB\EfCoreExistingDB\obj\Debug\netcoreapp3.1\EfCoreExistingDB.dll
+C:\Users\user\source\repos\EfCoreExistingDB\EfCoreExistingDB\obj\Debug\netcoreapp3.1\EfCoreExistingDB.pdb
+C:\Users\user\source\repos\EfCoreExistingDB\EfCoreExistingDB\obj\Debug\netcoreapp3.1\EfCoreExistingDB.genruntimeconfig.cache
